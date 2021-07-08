@@ -1,7 +1,3 @@
-# xor-file-encryption-decryption
-Data in readable files can be encrypted and decrypted.
-
-
 ## **Project Name:** File encryption and decryption using XOR
 
 **Description:** <br>This programme follows a simple method of xor encryption, allowing you to read and easily encrypt/decrypt a readable file, and store the output in a file of your choice (preferably a .txt file).
